@@ -1,0 +1,7 @@
+# Il programma usa solo moduli della libreria standard
+# - random
+# - datetime
+# - dataclasses
+# - enum
+
+# Nota: necessario Python >= 3.7 per il modulo dataclasses
